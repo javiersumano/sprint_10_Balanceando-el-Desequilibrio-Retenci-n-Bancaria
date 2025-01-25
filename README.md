@@ -1,9 +1,5 @@
 # sprint_10_Balanceando-el-Desequilibrio-Retenci-n-Bancaria
 
-Aquí tienes una sugerencia para la descripción del proyecto en GitHub:
-
-Predicción de Deserción de Clientes para Beta Bank
-
 Este proyecto utiliza un modelo de aprendizaje automático para predecir si un cliente dejará Beta Bank próximamente. El objetivo es maximizar la métrica F1 (mínimo 0.59) y evaluar el desempeño utilizando AUC-ROC, asegurando así que el banco pueda identificar clientes en riesgo y tomar medidas para mejorar su retención.
 
 Contenido del proyecto:
